@@ -1,0 +1,12 @@
+git add .
+git commit -m "minha mensagem de commit, o que eu mudei nele" 
+git push
+git branch -b cria uma nova branch 
+git checkout main - troca de branch 
+git merge main - recebe todas as suas alterações de uma  branch especifica 
+git checkout -b - cria uma branch e se move pra ela 
+git rebase - manda todas as suas alterações da branch atual para a especifica 
+git reset main apaga uma alteração voltando para o commit anterior 
+git revert main cria um commit , a partir do commit anterior , parecendo um git reset mas deixando um historico 
+
+Ctrl L = limpa 
